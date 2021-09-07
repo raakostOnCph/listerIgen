@@ -31,4 +31,8 @@ public class Liste
 
     }
 
+    public String printFromHead()
+    {
+
+    }
 }
